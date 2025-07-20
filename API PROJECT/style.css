@@ -6,7 +6,7 @@ body {
     text-align: center;
   }
   
-  .hero {
+  .hero { 
     background: linear-gradient(to right, #0f172a, #1e293b);
     color: white;
     padding: 60px 20px;
